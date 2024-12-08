@@ -2,3 +2,6 @@
 	path = assets/srb_assets
 	url = https://github.com/AndrejOrsula/srb_assets
 	branch = main
+[submodule "assets/srb_assets_srl"]
+	path = assets/srb_assets_srl
+	url = https://github.com/Space-Robotics-Laboratory/srb_assets_srl
